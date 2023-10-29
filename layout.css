@@ -1,0 +1,105 @@
+@charset "utf-8";
+/*
+Name: Allyson Vue
+Date: 10/29/2023
+File name: layout.css
+*/
+
+/*Header*/
+header {
+    display: block;
+    text-align: center;
+    padding: 15px;
+}
+
+header > img {
+    float: left;
+    size: 75%;
+    clear: both;
+    padding: none;
+    margin: none;
+}
+
+
+/*Body*/
+#content_page {
+    max-width: 960px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Schedule {
+    display: flex;
+    display: -webkit-flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+}
+
+/*Columns*/
+
+/*Column One*/
+.Column_One {
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 25px;
+    padding-bottom: 35%;
+}
+
+.Col1_header {
+    text-align: center;
+}
+
+/*Column Two*/
+.Column_Two {
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 25px;
+    padding-bottom: 35%;
+}
+
+.Col2_header {
+    text-align: center;
+}
+
+/*Column Three*/
+.Column_Three {
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 25px;
+    padding-bottom: 35%;
+}
+
+.Col3_header {
+    text-align: center;
+}
+
+/*Column Four*/
+.Column_Four {
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 25px;
+    padding-bottom: 35%;
+}
+
+.Col4_header {
+    text-align: center;
+}
+
+/*Column Five*/
+.Column_Five {
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 25px;
+    padding-bottom: 35%;
+}
+
+.Col5_header {
+    text-align: center;
+}
+
+/*Footer*/
+footer {
+    text-align: center;
+    padding: 10px;
+}
