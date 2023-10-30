@@ -41,8 +41,8 @@ header > img {
 /*Column One*/
 .Column_One {
     padding-top: 5px;
-    padding-left: 10px;
-    padding-right: 25px;
+    padding-left: 2px;
+    padding-right: 2px;
     padding-bottom: 35%;
 }
 
@@ -50,11 +50,17 @@ header > img {
     text-align: center;
 }
 
+.Col1_body > aside {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
 /*Column Two*/
 .Column_Two {
     padding-top: 5px;
-    padding-left: 10px;
-    padding-right: 25px;
+    padding-left: 2px;
+    padding-right: 2px;
     padding-bottom: 35%;
 }
 
@@ -62,11 +68,17 @@ header > img {
     text-align: center;
 }
 
+.Col2_body > aside {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
 /*Column Three*/
 .Column_Three {
     padding-top: 5px;
-    padding-left: 10px;
-    padding-right: 25px;
+    padding-left: 2px;
+    padding-right: 2px;
     padding-bottom: 35%;
 }
 
@@ -74,11 +86,16 @@ header > img {
     text-align: center;
 }
 
+.Col3_body > aside {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
 /*Column Four*/
 .Column_Four {
     padding-top: 5px;
-    padding-left: 10px;
-    padding-right: 25px;
+    padding-left: 2px;
+    padding-right: 2px;
     padding-bottom: 35%;
 }
 
@@ -86,16 +103,28 @@ header > img {
     text-align: center;
 }
 
+.Col4_body > aside {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
 /*Column Five*/
 .Column_Five {
     padding-top: 5px;
-    padding-left: 10px;
-    padding-right: 25px;
+    padding-left: 2px;
+    padding-right: 2px;
     padding-bottom: 35%;
 }
 
 .Col5_header {
     text-align: center;
+}
+
+.Col5_body > aside {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
 }
 
 /*Footer*/
