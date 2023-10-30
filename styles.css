@@ -26,6 +26,21 @@ body {
 }
 
 /*Columns*/
+h2 {
+    font-family: Garamond, serif;
+    font-style: italic;
+    font-size: 25px;
+}
+
+h3 {
+    font-family: Garamond, serif;
+    font-style: italic;
+    font-size: 20px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
 
 .Column_One {
     color: rgb(219, 64, 103);

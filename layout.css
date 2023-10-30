@@ -14,10 +14,9 @@ header {
 
 header > img {
     float: left;
-    size: 75%;
     clear: both;
-    padding: none;
-    margin: none;
+    padding: 0px;
+    margin: 0px;
 }
 
 
